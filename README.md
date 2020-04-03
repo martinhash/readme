@@ -35,7 +35,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### :large_orange_diamond: The following compilation examples will be run with wintrillions
 
-## :ng: Running
+## Running
 
 Run `ng serve --configuration=wintrillions` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -44,14 +44,11 @@ This project does not run the normal HTML, only the implementation of extensions
 
 ## Production
 
-1.  Run `npm run build:ssr` to build the project for production.
-1.  Run `npm run serve:ssr` to serve the production build.
+1.  Run `npm run build --configuration=wintrillions.production` to build the project for production.
 
-## Testing
+## SSR Prerender
 
-## Unit Tests
-
-- Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Run `ng run ng-multisite:prerender` to execute Angular Universal express engine [Prerender](https://github.com/angular/universal).
 
 
 
