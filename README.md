@@ -1,4 +1,4 @@
-###  MultiApp 
+##  MultiApp 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
@@ -27,15 +27,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - [Angular CLI](https://github.com/angular/angular-cli)
 
 
-### Setup
+## Setup
 
 1.  `git clone https://github.com/????`
 1.  `cd ??????`
 1.  `npm install`
 
-## :large_orange_diamond: The following compilation examples will be run with wintrillions
+### :large_orange_diamond: The following compilation examples will be run with wintrillions
 
-### :ng: Running
+## :ng: Running
 
 Run `ng serve --configuration=wintrillions` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
@@ -49,7 +49,7 @@ This project does not run the normal HTML, only the implementation of extensions
 
 ## Testing
 
-### Unit Tests
+## Unit Tests
 
 - Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
