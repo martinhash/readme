@@ -53,7 +53,7 @@ This project does not run the normal HTML, only the implementation of extensions
 ## Run Progressive Web App Installable in mobile and desktop.
 
 - Run `ng build --configuration=wintrillions.production` to execute a normal build in production and install  express engine [Prerender](https://github.com/angular/universal).
-![Alt text](img/installable 'Home' )
+![Alt text](img/installable.png 'Home' )
 
 ## License
 
