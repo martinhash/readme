@@ -7,16 +7,25 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - [x] Components, Services, Pipes, Models, Guards, Validators, Enumns and more
 - [x] Routing (same URLs)
-- [x] Ngx Translate (i18n)
 - [x] JSON files i18n
 - [x] Assets (brands, preview and detail images)
-- [x] Angular Universal express engine
-- [x] Angular Material
-- [x] ngx-useful-swiper
 - [x] Progressive web app 
 - [x] WebManifest
 - [x] Differents types of compilation
 
+### Packages
+The packages from this projects
+
+- [@angular/material](https://material.angular.io/)
+- [@angular/cdk](https://material.angular.io/cdk/)
+- [@angular/material-moment-adapter](https://www.npmjs.com/package/@angular/material-moment-adapter
+- [@angular/service-worker](https://www.npmjs.com/package/@nguniversal/express-engine)
+- [@ngx-translate/core](https://github.com/ngx-translate/core)
+- [@ngx-translate/http-loader](https://github.com/ngx-translate/http-loader)
+- [@sentry/browser](https://www.npmjs.com/package/@sentry/browser)
+- [ngx-translate-multi-http-loader](https://www.npmjs.com/package/ngx-translate-multi-http-loader)
+- [swiper](https://swiperjs.com/)
+- [ngx-useful-swiper](https://www.npmjs.com/package/ngx-useful-swiper)
 
 
 ## Getting Started
