@@ -50,7 +50,10 @@ This project does not run the normal HTML, only the implementation of extensions
 
 - Run `ng run ng-multisite:prerender` to execute Angular Universal express engine [Prerender](https://github.com/angular/universal).
 
+## Run Progressive Web App Installable in mobile and desktop.
 
+- Run `ng build --configuration=wintrillions.production` to execute a normal build in production and install  express engine [Prerender](https://github.com/angular/universal).
+![Alt text](img/installable 'Home' )
 
 ## License
 
