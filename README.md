@@ -5,13 +5,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ### Includes (These features are made in Angular)
 
-- [x] Components, Services, Pipes, Models, Guards, Validators, Enumns and more
-- [x] Routing (same URLs)
-- [x] JSON files i18n
-- [x] Assets (brands, preview and detail images)
-- [x] Progressive web app 
-- [x] WebManifest
-- [x] Differents types of compilation
+- [x] Components, Services, Pipes, Models, Guards, Validators, Enumns and more.
+- [x] Routing (same URLs).
+- [x] JSON files i18n.
+- [x] Assets (brands, preview and detail images).
+- [x] Progressive web app .
+- [x] WebManifest.
+- [x] Differents types of compilation.
 
 ### Packages
 The packages from this projects
